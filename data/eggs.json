@@ -1224,7 +1224,7 @@
       {
         "id": "crowned-jewel",
         "name": "Crowned Jewel",
-        "rarity": "infinity",
+        "rarity": "secret",
         "baseChance": 2e-11
       },
       {
